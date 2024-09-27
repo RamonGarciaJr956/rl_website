@@ -1,0 +1,255 @@
+newmtl mat_1_Nose cone
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.25 0.25 0.25
+newmtl mat_2_Telemetry
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_3_Body tube
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.83137256 0.7254902 0.5686275
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_4_Payload Bulkhead
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_5_Payload
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_6_U-Bolt
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_7_Shock cord (40ft) including linkages 
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_8_Main Parachute + Bag
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\chute.jpg
+newmtl mat_9_Coupler Shoulder
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.83137256 0.7254902 0.5686275
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_10_Tube coupler
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_11_U-Bolt
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_12_U-Bolt Aft
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_13_Recovery Hardware
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_14_Recovery disk
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_15_Coupler Bulkhead FWD With charge wells
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_16_Coupler Bulkhead AFT With charge wells
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_17_Body tube
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.83137256 0.7254902 0.5686275
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_18_Drogue
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\chute.jpg
+newmtl mat_19_Shock cord (35ft) Including Links
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_20_Motor Casing Eye Bolt
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_21_Inner Tube
+illum 2
+Ns 75.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.65882355 0.57254905 0.45490196
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_21_Inner Tube_M6000ST
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\aerotech.png
+newmtl mat_22_Centering ring Forward
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_23_Centering ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_24_Centering ring
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_25_Launch lug Forward
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.9411765 0.9411765 0.9411765
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_26_Launch lug
+illum 2
+Ns 225.00002
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.9411765 0.9411765 0.9411765
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\spiral-wound-alpha.png
+newmtl mat_27_Thrust Plate
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_28_Retainer
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wood.jpg
+newmtl mat_29_Freeform fin set
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\balsa.jpg
+newmtl mat_30_JB Weld and epoxy fillets
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
+newmtl mat_31_JB Weld and epoxy fillets
+illum 2
+Ns 0.0
+d 1.0
+Ka 0.0 0.0 0.0
+Kd 0.003921569 0.003921569 0.003921569
+Ks 0.25 0.25 0.25
+map_Kd -o 0.0 0.0 0.0 -s 1.0 1.0 1.0 -clamp off C:\Users\ramga\Downloads\Rocket Model_img\wadding.png
